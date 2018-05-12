@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '3554'
     url: http://www.gutenberg.org/2009/agents/3554
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31277#Anglo-Saxon-Grammar-and-Exercise-Bookwith-Inflections-Syntax-Selections-for-Reading-and-Gloss_
 gutenberg_issued: '2010-02-15'
 gutenberg_type: Text
 identifiers:
