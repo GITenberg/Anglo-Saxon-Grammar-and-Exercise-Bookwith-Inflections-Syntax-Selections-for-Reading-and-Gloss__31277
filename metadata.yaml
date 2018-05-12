@@ -1,0 +1,32 @@
+_repo: Anglo-Saxon-Grammar-and-Exercise-Bookwith-Inflections-Syntax-Selections-for-Reading-and-Gloss__31277
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, C. Alphonso (Charles Alphonso)
+    aliases:
+    - Smith, Alphonso
+    - Smith, Charles Alphonso
+    birthdate: 1864
+    deathdate: 1924
+    gutenberg_agent_id: '3554'
+    url: http://www.gutenberg.org/2009/agents/3554
+description: ''
+gutenberg_issued: '2010-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Old English, ca. 450-1100 -- Readers'
+- !lcc 'PE'
+- !lcsh 'English language -- Old English, ca. 450-1100 -- Grammar'
+title: 'Anglo-Saxon Grammar and Exercise Book
+
+  with Inflections, Syntax, Selections for Reading, and Glossary'
+url: http://www.gutenberg.org/ebooks/31277
